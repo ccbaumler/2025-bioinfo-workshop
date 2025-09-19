@@ -1,0 +1,138 @@
+# Format of this document:
+# Each top-level key is an item that is referneced by any section schedule's "content" array
+# Each key has a "name" attribute (rendered on the calendar), a "page" attribute (which contains a link to the lesson) and an optional "type" attribute, which is a key into the _data/config.yml "types" dictionary.
+1a:
+  name: Orientation & Requirements
+  page: 
+1b:
+  name: Typescript & Test Driven Development
+  page: 
+2a:
+  name: Test Adequacy
+  page: 
+2b:
+  name: Code-Level Design Principles
+  page: 
+3a:
+  name: Interaction-Level Design Patterns
+  page: 
+3b:
+  name: Concurrency Patterns
+  page: 
+4a:
+  name: Software Processes & Agile
+  page: 
+4b:
+  name: React Part 1 (Introduction)
+  page: 
+5a:
+  name: React Part 2 (Hooks)
+  page: 
+5b:
+  name: Application Level Patterns
+  page: 
+6a:
+  name: Tests with Larger Scope
+  page: 
+6b:
+  name: Work on project (Discuss project plan/revisions)
+7a:
+  name: Work on project (Discuss project plan/revisions)
+7b:
+  name: Security
+  page: 
+8a:
+  name: Continuous Development
+  page: 
+8b:
+  name: Midterm Review
+9a:
+  name: Midterm Exam
+9b:
+  name: Principles for Cloud Deployment
+  page: 
+10a:
+  name: Work on project
+10b:
+  name: Open Source
+  page: 
+10c:
+  name: Dependency Management
+  page: 
+11a:
+  name: Work on Project
+11b:
+  name: Ethics and Equity in SE
+  page: 
+12a:
+  name: Work on Project / Mini-Demo
+12b:
+  name: Work on Project
+13a:
+  name: Presentations
+13b:
+  name: Presentations
+pitch:
+  name: Elevator Pitch
+posters:
+  name: Poster Presentations
+advanced:
+  name: Advanced Topics in SE
+ip1:
+  name: Individual Project 1
+  type: deadline
+  page: 
+ip2:
+  name: Individual Project 2 
+  type: deadline
+  page: 
+tp1:
+  name: Project Formation
+  type: deadline
+tp2:
+  name: Preliminary Project Plan
+  type: deadline
+  page: 
+tp3:
+  name: Revised Project Plan
+  type: deadline
+  page: 
+tp4:
+  name: Project Final Deliverable
+  type: deadline
+  page: 
+veteransday:
+  name: Veteran's Day (No class)
+  type: holiday
+thanksgiving:
+  name: Thanksgiving Break (No class)
+  type: holiday
+indigenous:
+  name: Indigenous Peoples Day (No class)
+  type: holiday
+mlkday:
+  name: MLK Day (No class)
+  type: holiday
+presidentsday:
+  name: President's Day (No class)
+  type: holiday
+springbreak:
+  name: Spring Break (No class)
+  type: holiday
+patriotsday:
+  name: Patriots Day (No class)
+  type: holiday
+teamMeetings:
+  name: Team Meetings
+midtermReview:
+  name: Midterm Review
+noClass:
+  name: No Class
+extendedOfficeHours:
+  name: Work Session / Extended Office Hours
+readingDay:
+  name: Reading Day / No class
+finalsWeek:
+  name: Final Exam Week / No class
+optionalWOP:
+  name: Work on Project (Optional)
