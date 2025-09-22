@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: STS115
-tagline: 'STS115: Adventures in Data Science'
-description: A broad template for yearly course websites
+title: BCP101
+tagline: Let's learn Bioinformatics and Computational Pedagogy that matter to you!
+description: The centralize materials covered over the initial workshop
 author: Colton Baumler
-baseurl: '/my-course-template' # the subpath of your site, e.g. /blog
+baseurl: '/2025-bioinfo-workshop' # the subpath of your site, e.g. /blog
 url: 'https://ccbaumler.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", 'README.md']
 logo: 
@@ -25,12 +25,23 @@ logo:
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.10.1
 color_scheme: light
+callouts:
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+  important:
+    title: Important
+    color: blue
+enable_copy_code_button: true
 search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Canvas:
-    - 'https://kevinl.info'
+  This website's GitHub:
+    - 'https://github.com/ccbaumler/2025-bioinfo-workshop'
   Just the Class on GitHub:
     - 'https://github.com/kevinlin1/just-the-class'
   Just Cheese!:

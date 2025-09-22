@@ -1,3 +1,7 @@
+$custom-color-red: #e74c3c;
+$custom-color-green: #2ecc71;
+$custom-color-orange: #f39c12;
+
 .schedule {
   @include abstract-card();
   overflow-x: scroll;
@@ -85,12 +89,22 @@
 
     .name {
       @extend .fs-3, .fw-700;
+      font-size: 1.2rem;
+      color: $white;
+      letter-spacing: 0.3px;
+      text-shadow:
+         -1px -1px 0 #000,
+          1px -1px 0 #000,
+         -1px  1px 0 #000,
+          1px  1px 0 #000;
     }
 
     .time,
     .location {
-      @extend .fs-2;
-    }
+      @extend .fs-3;
+      letter-spacing: 0.3px;
+      color: #000;
+   }
 
     &.lecture {
       background-color: $grey-dk-000;
@@ -102,6 +116,25 @@
 
     &.office-hours {
       background-color: $blue-000;
+    }
+
+    &.workshop-intro {
+      background-color: $custom-color-orange;
+    }
+    
+    &.bioinfo-workflow {
+      background-color: $custom-color-green;
+    }
+    
+    &.python-basics {
+      background-color: $custom-color-red;
+    }
+
+    &.jupyterLite {
+      background-color: $blue-000;
+    }
+    &.workshop-outro {
+      background-color: $purple-000;
     }
   }
 }

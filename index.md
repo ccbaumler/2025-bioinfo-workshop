@@ -1,10 +1,10 @@
 ---
 layout: home
-title: STS115 (W26)
+title: BCP101 (Su25)
 nav_exclude: true
 seo:
   type: Course
-  name: UCD STS 115 W26 course materials
+  name: UCD BCP101 Su26 course materials
 ---
 
 # {{ site.tagline }}
@@ -12,7 +12,7 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-## Welcome to STS115: Adventures in Data Science! 
+## Welcome to BCP 101: Bioinformatics and Computational Pedagogy for STEM instructors! 
 
 The link to this webpage is [{{site.url}}{{ site.baseurl }}]({{site.url}}{{ site.baseurl }}).
 

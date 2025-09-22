@@ -1,16 +1,8 @@
----
-layout: home
-title: Just the Class
-nav_exclude: true
-permalink: /:path/
-seo:
-  type: Course
-  name: Just the Class
----
+# Bioinformatic and Computational Pedagogy Workshop Site
 
-# Just the Class
+This site was developed to hosted the information presented during Summer quarter 2025 to a small cohort of local STEM highschool instructors. This sit is hosted through GitHub Pages. 
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+The template was developed and extended from the [Just the Class](https://github.com/kevinlin1/just-the-class) repository. `Just the Class` focuses on easily and quickly deploying course websites.
 
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),

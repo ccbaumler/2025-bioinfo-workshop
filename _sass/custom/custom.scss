@@ -9,6 +9,7 @@
 //@import "bldcalendar";
 @import 'staffer';
 
+
 // Overrides
 a abbr[title] {
   border-bottom: none;
@@ -22,6 +23,12 @@ code {
   font-size: 14px;
   padding: 0.2em 0.4em;
   border: none;
+}
+
+// wrap long text in code chunks
+pre {
+  white-space: pre-wrap;
+  word-break: break-word;
 }
 
 div.highlighter-rouge[overlay] {
