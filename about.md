@@ -19,18 +19,119 @@ Below is all the information on the course.
 
 ---
 
-## About
+# Computational Pedagogy for Biology Educators
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+## When: summer 2025
 
-## Lecture
+Initial session will be June 23rd, based on attendee availability.
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+## Cost: 
+Completely Free.
 
-## Resources
+## Supplies needed: 
+A laptop and a lunch.
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+## Location: 
+[Room 360, Shields Library, UC Davis](https://library.ucdavis.edu/floor-map-shields/?floor=3)
 
-## Assignments
+## Schedule:
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+### 1-Week Intensive (In-person only)
+
+10 am to 3pm from Monday (the 23rd) to Friday (the 27th)
+
+### Follow up meetings (Remote optional)
+
+Week day and time to be determined during the 1-week intensive
+
+## Program Overview
+
+We will introduce a complete computational workflow for basic microbial genome analysis to attendees, scaled for use in a high school classroom. The workflow will introduce fundamental data analysis and processing techniques in support of answering questions about global microbial presence and absence in various environments.
+
+Attendees will gain the necessary computational skills and pedagogical skills to prepare them to teach this workflow in their classrooms. The learning outcomes based on attending this workshop will be bolstered by a module collaboratively written and updated during the workshop.
+
+This is intended to be an engaging, interactive, and generative learning experience at the intersection of pedagogy and hands-on digital exploration
+
+### Program Goals
+
+- Multiply the educational impact of each instructor attending this course.
+- Explore computational skills and pedagogy with a TA and Professorate cohort of instructors.
+- Teach a small cohort of high school biology teachers computational practices, methodologies, and pedagogy.
+- Facilitate discussions about differences in teaching styles and pedagogical skills across the instructors of this workshop.
+- Develop a well-rounded module to teach high school students computational literate skills for exploration of biological questions.
+
+## Learning Objectives
+
+The members of this workshop will systematically explore computational space through active live-coding sessions. While the cohort is gaining the fundamental knowledge of computational practices, they will also learn how to teach the skills they are learning actively and effectively.
+
+- **Fundamental Computational Skills**
+  - Effectively navigate and use local and remote computing platforms
+  - Develop intermediate steps in a "hit to lead" pipeline, generating and refining hypotheses based on intermediate results
+  - Learn and employ common data manipulations on large spreadsheets
+  - Use and understand standard plotting and data visualization approaches
+  - Facilitate exploratory data analysis and systematic step-wise analysis
+  - Discuss patterns observed in data and develop cross-cutting analyses
+  - Explore big data handling and approaches to allow application testing (subsetting and indexing the data)
+  - Emphasize the importance of version control and open-source architecture
+
+## Program Structure
+
+- **First week:** Intensive, week-long training focusing on establishing the breadth of foundational skills we will discuss over the remaining summer sessions
+    - The approximate schedule will take place Monday through Friday during a morning and afternoon 3-hour session.
+    - Transition from petabyte search of genetic information overlap in the public sequence archive
+    - To a geospatial metadata analysis of the initial search results
+    - **Update: the dates for this week have been set to June 23rd to June 27th.**
+
+
+- **Remaining summer:** Weekly meetings discussing a focused, in-depth examination of concepts and coding paradigms, followed by co-working sessions. (Via zoom as necessary)
+> A response to inquires on the nature of these follow-up meetings:
+>>I would like to clarify that we are planning to flexibly approach the problems, interests, and learning desires of the teacher cohort of this workshop. We will be focused not on a rote curriculum, but a dynamic, focused set of skills and scripts defined by the teachers. Our goal is that after attending this workshop, they can bring back to their classrooms, clubs, and campuses engaging ways to foster learning of logic and hypotheses, data science, coding skills with their students. We want them to be empowered to explore the things that interest them and their students in new ways.
+
+- **Cohort size:** 10-15 participants
+
+- **Cohort members:** Local area highschool biology teachers capable of commuting to University of Califonia, Davis for the week-long workshop.
+
+
+- **Tools & Topics:**
+  - Primary language for analysis \(R\)
+  - Bash scripting (Logical control flow loops, Sed, Awk, Grep)
+  - Command line experience (Bash, R, Python)
+  - Version Control (Git/GitHub) (SSH setup)
+  - Workflow manager (Snakemake, Nextflow)
+  - Environment Management (Conda, pixi)
+
+- **Infrastructure**
+  - Understanding the local environment of the computer
+  - Use of temporary high performance cluster or cloud computing resources
+    - Digital Ocean ($10 per 10 students for 1 month)
+
+# Point of Contact
+
+Colton Baumler, humble TA and graduate student
+
+ccbaumler@ucdavis.edu
+
+# Parking
+
+I am in communication with the parking authorities on campus and will provide registrants with a affilated parking over the summer. (Meaning you can park in more lots than visitor-only)
+
+While the [rate are available here](https://transportation.ucdavis.edu/types_and_rates
+). Dr Whitehead has offered to pay the parking costs for the cohort.
+
+Also, these are perhaps the best locations to park to walk to the Shields library:
+
+https://maps.app.goo.gl/YaLALNqk33RjpPSLA
+
+https://maps.app.goo.gl/Xx4dEoSwEQsQYwsn9
+
+https://maps.app.goo.gl/a3YrTvqRdijksg5e7
+
+# Example Material
+
+computational pedagogy
+- https://hackmd.io/eJ4-gTTuT8CnEFQMyeozRA
+- https://hackmd.io/zGu3bvHeQXmjx_yj6GSvEg
+
+https://ucdavisdatalab.github.io/adventures_in_data_science/
+
+Discussion feedback and slides
