@@ -46,12 +46,15 @@ schedule:
         location: 360 Shields Library
   - name: Friday
     events:
-      - name: JupyterLite
+      - name: Github Basics
         start: 10:00 AM
-        end: 1:00 PM
+        end: 11:00 AM
+      - name: Jupyter Lite
+        start: 11:00 AM
+        end: 2:00 PM
         location: 360 Shields Library
       - name: Workshop Outro
-        start: 1:00 PM
-        end: 2:00 PM
+        start: 2:00 PM
+        end: 3:00 PM
         location: Shields Library
 ---

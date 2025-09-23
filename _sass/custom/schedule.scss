@@ -130,11 +130,16 @@ $custom-color-orange: #f39c12;
       background-color: $custom-color-red;
     }
 
-    &.jupyterLite {
-      background-color: $blue-000;
+    &.github-basics {
+      background-color: $grey-dk-000;
     }
-    &.workshop-outro {
+ 
+    &.jupyter-lite {
       background-color: $purple-000;
+    }
+    
+    &.workshop-outro {
+      background-color: $custom-color-orange;
     }
   }
 }
